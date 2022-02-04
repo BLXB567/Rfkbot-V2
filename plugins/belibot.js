@@ -1,22 +1,22 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
 	conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'sewa bot')).buffer(), `╠═〘 Beli Bot 〙 ═
-╠➥ *1 Minggu* :     *Rp 15000*
-╠➥ *1 Bulan* :      *Rp 20000*
-╠➥ *2 Bulan* :      *Rp 30000*
-╠➥ *Permanen* : *Rp 40000*
-╠➥ *Owner* :   *Rp 30000*/bln
+╠➥ *1 Minggu* :     *Rp 10.000*
+╠➥ *1 Bulan* :      *Rp 15.000*
+╠➥ *2 Bulan* :      *Rp 30.000*
+╠➥ *Permanen* : *Rp 30.000*
+╠➥ *Sewa bot* : *hubungi owner jika filtur ini eror*
 ╠➥ *Nomer Gopay & pulsa* : 
-║    085730903853
+║    083117436733
 ╠═〘 PEMBAYARAN 〙 ═
 ╠➥ Dana Dan Pulsa
-║
-╠═ Tertarik Untuk Beli Bot Ini?
+║  
+╠═ Hanya bisa menyewa tidak menjual Bot
 ╠➥Ketuk Tombol Di Bawah Ya
 ║
-╠═ ©2021 Rpg wabot-aq
+╠═ ©2021 BLZXB DVT
 ╠═ Scrip original by Nurutomo
-╠═〘 AlyaaXzy 〙 ═`.trim(), watermark, 'Dana', '#viadana', 'Pulsa', '#viapulsa', m)
+╠═〘 BLZXB5 〙 ═`.trim(), watermark, 'Dana', '#viadana', 'Pulsa', '#viapulsa', m)
 }
 
 handler.command = /^sewabot$/i
