@@ -59,7 +59,7 @@ global.packname = 'Yae sticker' // ganti aja
 global.author = 'BLZXB5' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //AlyaaXy Broadcast
+bc = 'Yae DVT' //Yae Bots Broadcast
 footer = '\n©Yae DVT'
 namabot = 'Yae DVT'
 namalu = 'BLZXB5'
