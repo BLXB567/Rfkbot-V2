@@ -46,28 +46,28 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
-kasihcaption = `Nih kak`
+namaig = 'there is not any :)'
+namagithub = 'there is not any :)'
+kasihcaption = `this `
 namakontak1 = 'Syah 1'
 namakontak2 = 'Miyuki 2'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'Yae sticker' // ganti aja
-global.author = 'BLZXB5' // ganti aja
+global.packname = 'BLZXB sticker' // ganti aja
+global.author = 'Syah DVT' // ganti aja
 
 //yyy
-bc = 'Yae DVT' //Yae Bots Broadcast
-footer = '\n©Yae DVT'
-namabot = 'Yae DVT'
-namalu = 'BLZXB5'
+bc = 'BLZXB DVT' //BLZXB Bots Broadcast
+footer = '\n©BLZXB DVT'
+namabot = 'BLZXB DVT'
+namalu = 'Syah DVT'
 
 
 // 
-wait = '_*Tunggu Sebentar...*_'
-global.wait = '_*Tunggu Sebentar...*_'
+wait = '_*wait...*_'
+global.wait = '_*down for a while...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error*_'
